@@ -9,7 +9,7 @@ spring:
     password: root
 
 file:
-  location: E:\jwms
+  location: E:\jwms\
 
 mybatis:
   mapper-locations: classpath:mapper/*.xml #扫描所有mybatis的xml文件
